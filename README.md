@@ -10,9 +10,9 @@ I'm interested in:
 
 1- Rust & Web3
 
-2- Game Dev & Godot Engine
+2- Kotlin (Game, UI, API, Agents)
 
-3- Kotlin & CMP (Break time...)
+3- Defold Engine (Not yet...)
 
 I'll do my best!
 
