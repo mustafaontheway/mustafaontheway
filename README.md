@@ -12,7 +12,7 @@ I'm interested in:
 
 2- Kotlin (Game, UI, API, Agents)
 
-3- Defold Engine (Not yet...)
+3- Godot (Now) & Defold Engine (Not yet...)
 
 I'll do my best!
 
