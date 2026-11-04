@@ -8,11 +8,8 @@ I'm not a computer engineer! But I believe I am the person who can build a bridg
 
 I'm interested in:
 
-1- Rust & Web3
-
-2- Kotlin (Game, UI, API, Agents)
-
-3- Godot Engine 
+1- Rust for Apps & Web3 & FinTech
+3- Godot Engine for Games
 
 I'll do my best!
 
