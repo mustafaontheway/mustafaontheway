@@ -10,9 +10,9 @@ I'm interested in:
 
 1- Rust for Web3, FinTech, Apps, Games, Backend and AI Agents
 
-2- Godot Engine for Games
+2- Game Dev
 
-3- Lua for Games
+3- CMP
 
 I'll do my best!
 
